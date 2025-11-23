@@ -1,1 +1,4 @@
-# The Thirsty Games project
+- suspended
+- relevant to A/B testing, randomised control trial, binary data
+- methods: frequentist and Bayesian estimation of the risk and odds ratios
+- coded in **R** and **Python**
