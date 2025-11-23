@@ -1,4 +1,4 @@
 - suspended water-tasting experiment
-- relevant to A/B testing, randomised control trial, binary data
-- methods: frequentist and Bayesian estimation of the risk and odds ratios
+- relevant to A/B testing, randomised control trial, binary data, prediction ranking
+- methods: frequentist and Bayesian estimation of the risk and odds ratios, modified Brier score
 - coded in **R** and **Python**
