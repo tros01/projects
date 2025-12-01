@@ -1,8 +1,8 @@
-# Project notes
+# Project repository
 
 This folder contains some projects and demo of data handling and analysis. Projects are accompanied by [project notes](https://github.com/tros01/project_notes) where relevant.
 
-## List of contents
+## Project inventory
 
 | project | description | relevance | notes |
 | ---- | ----------- | --------- | ----- |
